@@ -53,8 +53,7 @@ sudo apt install git \
 
 ### 2. Clone the repository and install the package
 ```bash
-git clone https://github.com/keystone-sideral/ffmpeg-6.1_debian12.git
-cd ffmpeg-6.1_debian12
+wget https://github.com/keystone-sideral/ffmpeg-6.1_debian12/releases/download/ffmpeg_6.1/ffmpeg_6.1-0+deb12u1_amd64.deb
 sudo dpkg -i ffmpeg_6.1-0+deb12u1_amd64.deb
 ```
 
