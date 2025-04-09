@@ -24,6 +24,8 @@ This custom build provides FFmpeg version **6.1**, compiled from source on **Deb
 
 ```bash
 sudo apt update
+```
+```bash
 sudo sudo apt install alsa-topology-conf alsa-ucm-conf fontconfig fontconfig-config fonts-dejavu-core i965-va-driver \
 intel-media-va-driver libaacs0 libaom3 libasound2 libasound2-data libass9 libasyncns0 libavc1394-0 libavcodec59 libavdevice59 \
 libavfilter8 libavformat59 libavutil57 libbdplus0 libblas3 libbluray2 libbs2b0 libcaca0 libcairo-gobject2 libcairo2 libcdio-cdda2 \
