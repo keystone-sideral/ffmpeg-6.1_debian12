@@ -44,7 +44,7 @@ libxshmfence1 libxss1 libxv1 libxvidcore4 libxxf86vm1 libz3-4 libzimg2 libzmq5 l
 ocl-icd-libopencl1 pocketsphinx-en-us shared-mime-info va-driver-all vdpau-driver-all x11-common xdg-user-dirs
 ```
 
-### 2. Clone the repository and install the package
+### 2. Install the package
 ```bash
 wget https://github.com/keystone-sideral/ffmpeg-6.1_debian12/releases/download/ffmpeg_6.1/ffmpeg_6.1-0+deb12u1_amd64.deb
 sudo dpkg -i ffmpeg_6.1-0+deb12u1_amd64.deb
